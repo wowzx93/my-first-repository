@@ -1,3 +1,3 @@
 # my-first-repository
-just test
 this is my first repository
+I use ubuntu 16.04
